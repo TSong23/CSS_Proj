@@ -1,8 +1,8 @@
-bin
-config
-db
-docs
-lib
+bin/
+config/
+db/
+docs/
+lib/
 log/
 public/
 test/
