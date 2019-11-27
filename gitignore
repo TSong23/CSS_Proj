@@ -1,0 +1,10 @@
+bin/
+config/
+db/
+docs/
+lib/
+log/
+public/
+test/
+tmp/
+vendor/
